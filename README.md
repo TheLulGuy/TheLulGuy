@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheLulGuy
+- 👀 I’m interested in elon musk, dogecoin, and minecraft
+- 🌱 I’m currently learning python, java, and maybe c++ in the future
